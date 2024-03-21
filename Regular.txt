@@ -1,0 +1,17 @@
+ Pattern	Description
+\d	Matches any decimal digit; this is equivalent to the class [0-9].
+\D	Matches any non-digit character
+\s	Matches any whitespace character
+\S	Matches any non-whitespace character
+\w	Matches any alphanumeric character
+\W	Matches any non-alphanumeric character.
+.	Matches with any single character except newline ‘\n'.
+?	match 0 or 1 occurrence of the pattern to its left
++	1 or more occurrences of the pattern to its left
+*	0 or more occurrences of the pattern to its left
+\b	boundary between word and non-word. /B is opposite of /b
+[..]	Matches any single character in a square bracket
+\	It is used for special meaning characters like . to match a period or + for plus sign.
+{n,m}	Matches at least n and at most m occurrences of preceding
+a| b	Matches either a or b
+ 
