@@ -1,0 +1,25 @@
+Calculator
+1. The calculator should be a command-line application.
+2. It should support basic arithmetic operations: addition, subtraction, multiplication, and division.
+3. The user should be able to input two numbers and the desired operation.
+4. The program should perform the requested operation on the two numbers and display the result.
+5. Proper input validation should be implemented to handle non-numeric inputs or divide-by-zero cases.
+6. The program should provide a menu or prompt to allow the user to perform multiple calculations or exit the program.
+
+2. Guess the Number
+
+1. The program should generate a random number within a specified range (e.g., 1-100).
+2.The user should be prompted to guess the number.
+3.After each guess, the program should provide feedback to the user if the guess is too high or too low.
+4.The user should have a limited number of attempts (e.g., 7 or 10).
+5.If the user guesses the correct number, the program should display a congratulatory message.
+6. If the user runs out of attempts, the program should reveal the correct number and display a "better luck next time" message.
+7. The program should allow the user to play again or exit after each game.
+
+ 
+3.Password Generator
+1.The program should prompt the user to specify the desired password length.
+2.The user should be able to choose whether to include uppercase letters, lowercase letters, digits, and/or special characters in the generated password.
+3.Based on the user's choices, the program should generate a random password that meets the specified criteria.
+4.The generated password should be displayed to the user.
+5.The program should provide an option to generate a new password or exit.
